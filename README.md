@@ -13,4 +13,4 @@ If I had more time, I would focus on validation, accessibility and styling.
 
 ## Deployed version :rocket:
 
-https://survey-by-aleksandra.netlify.com/
+https://survey-by-aleksandra.netlify.app/
